@@ -95,11 +95,11 @@
 ---
 
 ### 🎵 Listening to...
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3142obdq7u7nltzqthldlxgfi3r4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=00e1ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3142obdq7u7nltzqthldlxgfi3r4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=00fbff&bar_color_cover=false">
+  </a>
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer"/>
