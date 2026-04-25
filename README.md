@@ -94,11 +94,13 @@
 
 ---
 
-### 🎵 Listening to...
+### 🎮 Music & Game Activity
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3142obdq7u7nltzqthldlxgfi3r4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=00fbff&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3142obdq7u7nltzqthldlxgfi3r4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=00fbff&bar_color_cover=false" width="400" />
   </a>
+  <br>
+  <img src="https://lanyard.cnrad.dev/api/629960108415385600?theme=dark&bg=121212&borderRadius=10px&animated=true&hideSpotify=true" width="400" />
 </p>
 
 <div align="center">
